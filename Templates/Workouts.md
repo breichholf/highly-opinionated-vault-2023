@@ -1,5 +1,4 @@
----
-aliases: [Workout]
+--aliases: [Workout]
 tags: [workout]
 title: Workout
 reps:

@@ -15,13 +15,25 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "219caad00b32353c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "README.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,7 +45,7 @@
       {
         "id": "3e1fc648f46914c4",
         "type": "tabs",
-        "dimension": 79.53703703703704,
+        "dimension": 72.98636926889715,
         "children": [
           {
             "id": "cdbe46f476d5c797",
@@ -66,7 +78,7 @@
       {
         "id": "4af83666f6f49517",
         "type": "tabs",
-        "dimension": 20.462962962962962,
+        "dimension": 27.01363073110285,
         "children": [
           {
             "id": "615cd7309793c2a1",
@@ -86,11 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2837026535a9eaa",
@@ -107,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,37 +192,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
-      "canvas:Create new canvas": true,
-      "cmdr:QuickAdd: Create New Project": false,
-      "publish:Publish changes": true,
-      "cmdr:QuickAdd: Add to Project Kanban": false,
-      "command-palette:Open command palette": true,
-      "zk-prefixer:Create new unique note": true,
-      "random-note:Open random note": true,
       "obsidian-map-view:Open map view": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "open-vscode:VSCode": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes": false,
       "periodic-notes:Open today": false,
       "cmdr:QuickAdd: Add to Project Scratchpad": false,
+      "cmdr:QuickAdd: Create New Project": false,
+      "cmdr:QuickAdd: Add to Project Kanban": false,
       "cmdr:Linter: Lint the current file": false,
       "cmdr:QuickAdd: Capture Thought": false,
       "cmdr:Luhman: Insert Zettel Link": false,
-      "open-vscode:VSCode": false,
-      "cmdr:QuickAdd: Move Zettel to Private": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "cmdr:QuickAdd: Move Zettel to Private": false
     }
   },
-  "active": "885911e69901227d",
+  "active": "219caad00b32353c",
   "lastOpenFiles": [
-    "Readwise-Example/Articles Test/The Ancient Japanese Technique That Produces Lumber Without Cutting Trees.md",
     "README.md",
-    "Readwise-Example/Readwise-Example.md",
-    "_tutorial/_tutorial.md",
-    "_tutorial/Attachments/Screenshot 2022-12-17 17-18-40.png",
-    "_PARA/Projects/rs/rs.md",
-    "_PARA/Projects/rs/Resources.md",
-    "_PARA/Projects/rs/Kanban.md",
-    "_PARA/Projects/rs/Scratchpad.md",
-    "202212151455.md"
+    "Computed/Computed.md",
+    "Computed/CRM.md",
+    "Computed/Tasks.md",
+    "Computed/Workouts.md",
+    "Calendar/Daily/2022-12-18.md",
+    "_PARA/Projects/Test Project 2/Kanban.md",
+    "_tests/_tests.md",
+    "202212151455.md",
+    "202212120002.md"
   ]
 }

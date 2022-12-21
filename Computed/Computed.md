@@ -8,11 +8,10 @@ linter-yaml-title-alias: Computed
 ---
 
 %% Begin Waypoint %%
-
 - [[CRM]]
 - [[Tasks]]
 - [[To Process]]
 - [[Trackers]]
-- [[Workouts]]
+- [[Computed/Workouts]]
 
 %% End Waypoint %%

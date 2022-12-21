@@ -6,7 +6,6 @@ date modified: Thursday, December 15th 2022, 12:05:02 pm
 ---
 
 %% Begin Waypoint %%
-- [[Jane Doe]]
-- [[John Doe]]
+
 
 %% End Waypoint %%

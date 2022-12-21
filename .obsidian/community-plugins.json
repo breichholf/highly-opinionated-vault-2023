@@ -28,5 +28,8 @@
   "obsidian-plugin-update-tracker",
   "obsidian-linter",
   "open-vscode",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "readwise-official",
+  "obsidian-admonition",
+  "obsidian-zotero-desktop-connector"
 ]

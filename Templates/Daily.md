@@ -1,5 +1,4 @@
----
-aliases: ['<% tp.date.now("YYYY-MM-DD") %>']
+--aliases: ['<% tp.date.now("YYYY-MM-DD") %>']
 tags: [daily]
 location: [48.8584, 2.2945]
 title: '<% tp.date.now("YYYY-MM-DD") %>'

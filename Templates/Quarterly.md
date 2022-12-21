@@ -1,5 +1,4 @@
----
-aliases: [<% tp.date.now('yyyy') %>-Q<% Math.floor(tp.date.now('MM') / 4) + 1 %>]
+--aliases: [<% tp.date.now('yyyy') %>-Q<% Math.floor(tp.date.now('MM') / 4) + 1 %>]
 tags: [quarterly]
 title: <% tp.date.now('yyyy') %>-Q<% Math.floor(tp.date.now('MM') / 4) + 1 %>
 linter-yaml-title-alias: <% tp.date.now('yyyy') %>-Q<% Math.floor(tp.date.now('MM') / 4) + 1 %>
@@ -28,7 +27,6 @@ where file.name != "Kanban"
 where file.name != "Archive"
 where file.name != "Resources"
 ```
-
 
 ## Upcoming
 

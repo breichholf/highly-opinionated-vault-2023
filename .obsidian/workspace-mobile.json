@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "25ae3d9848905f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ebb8e3720dff43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca2af2e4cbd8960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f612e4bfd143ac4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "423432014ec27f47",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "37705c2848db72d9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fbc11778f29f98c1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a6d05f9ef073a13a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "c02a3055aeec0d16",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "403a5ba0cfc447c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95fa44db8268b334",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eaa6045be47d5748",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "68c6a05c03466996",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md"
+          }
+        }
+      },
+      {
+        "id": "bae11f8bcf1b5342",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4ca2af2e4cbd8960",
+  "lastOpenFiles": [
+    "_tutorial/Attachments/The_dress_blueblackwhitegold.jpeg",
+    "_tutorial/Attachments/trust author to get plugins.png",
+    "_PARA/Archive/Archive.md",
+    "_PARA/Projects/Projects.md",
+    "_PARA/Archive/Archived Project/Kanban.md",
+    "_PARA/Archive/Archived Project/Archived Project.md",
+    "_PARA/Projects/Test Project/Test Project.md",
+    "_PARA/Projects/Test Project/Resources.md",
+    "_PARA/Projects/Test Project 2/Scratchpad.md",
+    "_PARA/Projects/Test Project 2/Resources.md"
+  ]
+}

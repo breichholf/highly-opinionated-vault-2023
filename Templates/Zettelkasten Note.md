@@ -1,5 +1,4 @@
----
-aliases: [Lorem Ipsum]
+--aliases: [Lorem Ipsum]
 tags: [zettel]
 projects: []
 title: Lorem Ipsum

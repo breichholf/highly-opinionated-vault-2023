@@ -1,5 +1,4 @@
----
-tags: [recipes]
+--tags: [recipes]
 title: Recipes
 date created: <% tp.date.now("dddd, MMMM Do YYYY, h:mm:ss a") %>
 date modified: <% tp.date.now("dddd, MMMM Do YYYY, h:mm:ss a") %>
